@@ -8,4 +8,4 @@ Significant tools used so far in this project (server side) :
 
 Frontend (JS/TS with React and Vite) is being developed in the corresponding branch. Note that the JS version is now deprecated as I am now only using TS.
 
-Accessible at https://mateofontanel.github.io/Caupanharm/
+A prototype version is accessible at https://mateofontanel.github.io/Caupanharm/
