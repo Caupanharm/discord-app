@@ -6,6 +6,6 @@ Significant tools used so far in this project (server side) :
 - MongoDB and Rest APIs to collect/store data ([Riot Games public API](https://developer.riotgames.com/) and [HenrikDev's API](https://app.swaggerhub.com/apis-docs/Henrik-3/HenrikDev-API/3.0.0#/))
 
 
-Frontend (JS/TS with React and Vite) is being developed in the corresponding branch. Note that the JS version is now deprecated as I am now only using TS.
+Frontend (JS/TS, React, Vite) is being developed in the corresponding branch
 
-A prototype version is accessible at https://mateofontanel.github.io/Caupanharm/
+A prototype version is still accessible at https://mateofontanel.github.io/Caupanharm/ but hasn't been updated in a long time.
